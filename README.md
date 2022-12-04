@@ -25,6 +25,23 @@ Daily return: $9.77327304201272
 Monthly return: $293.198191260382
 Annual return: $3567.24466033464
 
+Assets Purchased:
+AAPL 1 
+BAC 1 
+AMZN 13
+GOOG 1
+ABBV 13
+DIA 1 
+SBIO 1 
+EMLP 1 
+SPHD 1 
+YAO 1  
+IGDAX 2
+WSGAX 9
+WDHYX 1
+VLTCX 1
+VITAX 9
+
 Pie chart generated from the system:
 
 ![image](https://user-images.githubusercontent.com/103590679/205519176-57dd4bb0-25b5-417b-adcb-8f3187bae491.png)
