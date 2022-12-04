@@ -20,11 +20,11 @@ User interface for the decision support system:
 
 Results at the time the system was run:
 
-Amount investedL: $9997.680277
+Amount investedL: $9997.68
 
-Daily return: $9.77327304201272
-Monthly return: $293.198191260382
-Annual return: $3567.24466033464
+Daily return: $9.77
+Monthly return: $293.19
+Annual return: $3567.24
 
 Assets Purchased:
 
