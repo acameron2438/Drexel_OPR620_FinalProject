@@ -7,9 +7,10 @@ Summary:
 My decision support system uses linear programming to optimize an investment portfolio. In in the initial steps, the script imports data like the opening prices and closing prices for 15 assets taken from yahoo’s financial website. It stores this data in a data frame so the script can later get the previous day’s closing price for each asset. This is then used as the coefficients in the linear programming model. The script pulls in the daily returns for all 15 assets, which is used to calculate the average return and risk of each. When I ran the model in class I used the following contraints:
 
 1) The risk factor (p) is equal to 5 units.
-2) Invest no more than $8,000 in any of the three assets. 
+2) Invest no more than $8,000 in any of the three assets classes. 
 3) Invest at least $2,000 in each of the three asset classes (Stockes, ETF, Index Funds).
 4) Invest no more than $10,000
+5) Buy at least one of each asset
 
 The decision support system maximizes the return on investment even if that means it doesn't invest all the money. The decision support system provides the expected returns on daily, monthly, quarterly and yearly basis assuming the market conditions remain the same.
 
