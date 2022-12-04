@@ -11,7 +11,7 @@ My decision support system uses linear programming to optimize an investment por
 3) Invest at least $2,000 in each of the three asset classes (Stockes, ETF, Index Funds).
 4) Invest no more than $10,000
 
-The decision support system maximizes the return on investment even if that means not investing all of the money. The decision support system provides the expected returns on daily, monthly, quarterly and yearly basis assuming the market conditions remain the same.
+The decision support system maximizes the return on investment even if that means it doesn't invest all the money. The decision support system provides the expected returns on daily, monthly, quarterly and yearly basis assuming the market conditions remain the same.
 
 User interface for the decision support system:
 
