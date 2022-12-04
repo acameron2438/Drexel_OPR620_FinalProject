@@ -19,22 +19,7 @@ User interface for the decision support system:
 Results at the time the system was run:
 
 Amount investedL: $9997.680277
- # of Stocks to be bought for  AAPL  are  1 
- # of Stocks to be bought for  BAC  are  1 
- # of Stocks to be bought for  AMZN  are  13
- # of Stocks to be bought for  GOOG  are  1
- # of Stocks to be bought for  ABBV  are  13
- # of Stocks to be bought for  DIA  are  1 
- # of Stocks to be bought for  SBIO  are  1 
- # of Stocks to be bought for  EMLP  are  1 
- # of Stocks to be bought for  SPHD  are  1 
- # of Stocks to be bought for  YAO  are  1  
- # of Stocks to be bought for  IGDAX  are  2
-# of Stocks to be bought for  WSGAX  are  9
-# of Stocks to be bought for  WDHYX  are  1
-# of Stocks to be bought for  VLTCX  are  1
-# of Stocks to be bought for  VITAX  are  9
- 
+
 Daily return: $9.77327304201272
 Monthly return: $293.198191260382
 Annual return: $3567.24466033464
